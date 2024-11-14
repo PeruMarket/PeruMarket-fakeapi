@@ -21,7 +21,7 @@
 			"id": 1,
 			"idUser": "1",
 			"name": "Oscar",
-			"lastName: "Pacherres",
+			"lastName": "Pacherres",
 			"email": "oscar.pacherres@fakemail.com",
 			"dni": 12345678
 		},
@@ -29,7 +29,7 @@
 			"id": 2,
 			"idUser": "1",
 			"name": "Lucas",
-			"lastName: "Zevallos",
+			"lastName": "Zevallos",
 			"email": "lucas.zevallos@fakemail.com",
 			"dni": 12345678
 		},
@@ -37,7 +37,7 @@
 			"id": 3,
 			"idUser": "1",
 			"name": "Alicia",
-			"lastName: "Zuñiga",
+			"lastName": "Zuñiga",
 			"email": "alicia.zuñiga@fakemail.com",
 			"dni": 12345678
 		}
