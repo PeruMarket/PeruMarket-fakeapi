@@ -5,7 +5,18 @@
 			"name": "Beatriz",
 			"lastName": "Alarcon",
 			"email": "beatriz.alarcon@fakemail.com",
-			"password": "12345678"
+			"password": "12345678",
+			"clients": [
+				{
+					"idClient": "1"
+				},
+				{
+					"idClient": "2"
+				},
+				{
+					"idClient": "3"
+				}
+			]
 		},
 		{
 			"id": 2,
@@ -16,10 +27,9 @@
 		}
 		
 	],
-	"clients": [
+	"client": [
 		{
 			"id": 1,
-			"idUser": "1",
 			"name": "Oscar",
 			"lastName": "Pacherres",
 			"email": "oscar.pacherres@fakemail.com",
@@ -27,7 +37,6 @@
 		},
 		{
 			"id": 2,
-			"idUser": "1",
 			"name": "Lucas",
 			"lastName": "Zevallos",
 			"email": "lucas.zevallos@fakemail.com",
@@ -35,7 +44,6 @@
 		},
 		{
 			"id": 3,
-			"idUser": "1",
 			"name": "Alicia",
 			"lastName": "Zuñiga",
 			"email": "alicia.zuñiga@fakemail.com",
