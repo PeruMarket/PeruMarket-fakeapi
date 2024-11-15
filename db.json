@@ -23,7 +23,15 @@
 			"name": "Esteban",
 			"lastName": "Quito",
 			"email": "esteban.quito@fakemail.com",
-			"password": "87654321"
+			"password": "87654321",
+			"clients": [
+				{
+					"idClient": "1"
+				},
+				{
+					"idClient": "2"
+				}
+			]
 		}
 		
 	],
