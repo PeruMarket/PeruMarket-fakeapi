@@ -16,6 +16,17 @@
 				{
 					"idClient": "3"
 				}
+			],
+			"products": [
+				{
+					"idProduct": "1"
+				},
+				{
+					"idProduct": "2"
+				},
+				{
+					"idProduct": "3"
+				}
 			]
 		},
 		{
@@ -30,6 +41,14 @@
 				},
 				{
 					"idClient": "2"
+				}
+			],
+			"products": [
+				{
+					"idProduct": "1"
+				},
+				{
+					"idProduct": "2"
 				}
 			]
 		}
@@ -58,7 +77,7 @@
 			"dni": 12345678
 		}
 	],
-	"products": [
+	"product": [
 		{
 			"id": 1,
 			"idUser": "1",
