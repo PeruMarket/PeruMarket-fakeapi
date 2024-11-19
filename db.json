@@ -99,5 +99,17 @@
 			"description": "Yogurt Griego Gloria 120g",
 			"cost": 2.20
 		}
+	],
+	"invoice": [
+		{
+			"id": 1,
+			"idClient": "",
+			"TCEA": 0.0,
+			"withinholding": 0,
+			"endDate": 0,
+			"netValue": 0.0,
+			"valueReceived": 0.0,
+			"valueDelivered": 0.0
+		}
 	]
 }
